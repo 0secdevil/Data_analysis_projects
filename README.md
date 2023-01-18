@@ -16,7 +16,7 @@ In this internship, we were provided a total of 2 Tasks and I was able to succes
 
 
 
-### # Task-1 : Exploratory Data Analysis Terrorism
+### # Task-4 : Exploratory Data Analysis Terrorism
 
 
 1.To perform Exploratory Data Analysis Terrorism
@@ -25,7 +25,7 @@ In this internship, we were provided a total of 2 Tasks and I was able to succes
 
 
 
-### # Task-2 : Exploratory Data Analysis Sports 
+### # Task-5 : Exploratory Data Analysis Sports 
 _Please click on the images on right side to view my solution._
 
 1.To perform  Exploratory Data Analysis on Sports 
